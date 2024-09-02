@@ -85,6 +85,8 @@ Perform the following tasks:
 ##### References
 Dataset created by [the United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 
+[Tectonicplates Data](https://github.com/fraxen/tectonicplates)
+
 [Leaflet Documentation](https://leafletjs.com/reference.html)
 
 chat GPT
