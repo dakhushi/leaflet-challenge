@@ -77,7 +77,7 @@ Perform the following tasks:
     - A legend is created and positioned in the bottom right corner of the map.
     - The legend explains the color coding of the earthquake markers based on depth.
     - The legend dynamically generates color squares corresponding to the depth ranges and displays them next to the depth intervals.
-
+![image](https://github.com/user-attachments/assets/41a07c9d-89af-448e-a68c-3e633f191b85)
 - Final Map Setup:
     - The map is displayed with the chosen layers, overlays, and legend.
     - The user can toggle between different base maps and overlays using the layer control.
